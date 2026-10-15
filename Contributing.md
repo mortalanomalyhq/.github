@@ -14,8 +14,7 @@ You don't have to write code to be a real contributor:
 - Improve documentation and examples
 - Report bugs with clear steps to reproduce
 - Review other people's pull requests
-- Test on your own hardware and share results (especially useful for
-  `maximumdistill`, which runs on CPUs)
+- Test on your own hardware and share results
 - Answer questions from other users
 - Propose new projects (see "Proposing something new" below)
 
